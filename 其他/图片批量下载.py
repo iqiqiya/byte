@@ -6,6 +6,8 @@
 # @FileName  :图片批量下载.py
 import urllib
 
+
+# https://live.freebuf.com/activity/eb981fa6807c1211d0728dd54728225a/l_aea3958ff2d31b22506e6f78166c8147
 url = "https://cnstatic01.e.vhall.com/document/539fa66100c9d36a0b811b6b63443c5d/"
 num = 1
 for x in range(500):
