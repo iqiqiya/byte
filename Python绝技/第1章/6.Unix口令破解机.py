@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Author    :iqiqiya
-# @Blog      :77sec.cn
+# @Blog      :iqiqiya.com
 # @Time      :2020/6/6
 # @FileName  :6.Unix口令破解机.py
 import crypt

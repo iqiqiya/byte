@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Author    :iqiqiya
-# @Blog      :77sec.cn
+# @Blog      :iqiqiya.com
 # @Time      :2020/6/5
 # @FileName  :图片合成pdf.py
 import img2pdf

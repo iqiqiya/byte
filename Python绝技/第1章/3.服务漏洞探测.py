@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Author    :iqiqiya
-# @Blog      :77sec.cn
+# @Blog      :iqiqiya.com
 # @Time      :2020/6/5
 # @FileName  :3.服务漏洞探测.py
 # 获取banner与文本内容比较

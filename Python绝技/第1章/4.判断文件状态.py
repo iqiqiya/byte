@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 # @Author    :iqiqiya
-# @Blog      :77sec.cn
+# @Blog      :iqiqiya.com
 # @Time      :2020/6/6
 # @FileName  :4.判断文件状态.py
 import sys
