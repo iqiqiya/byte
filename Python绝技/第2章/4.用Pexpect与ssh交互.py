@@ -34,9 +34,9 @@ def connect(user, host, password):
 
 
 def main():
-    host = '172.16.180.129'
+    host = '192.168.1.192'
     user = 'root'
-    password = '77521'
+    password = '123456'
     child = connect(user, host, password)
     send_command(child, 'cat /etc/shadow | grep root')
 
